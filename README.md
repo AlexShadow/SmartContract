@@ -1,2 +1,2 @@
 # SmartContract
-SmartContract for EstateCoin Project (ERC20)
+SmartContracts for EstateCoin Project (ERC20)
